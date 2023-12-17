@@ -1,0 +1,2 @@
+# BlueJackbyErdiSinan
+BlueJack Game
